@@ -21,4 +21,4 @@ Adventure #2 – Sunken Treasure
 I released both of these titles limited numbers via mail order but never kept a fully working copy. 
 As time went on the only thing that remained were my handwritten notes, code scribbles and sketched maps.
 
-Blog article can be found here: https://www.scottjulian.id.au/2020/04/an-adventure-in-3583-bytes/
+Blog article can be found here: https://scottjulian.alphaworks.com.au/retro/an-adventure-in-3583-bytes/
