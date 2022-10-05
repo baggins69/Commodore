@@ -22,3 +22,4 @@ I released both of these titles limited numbers via mail order but never kept a 
 As time went on the only thing that remained were my handwritten notes, code scribbles and sketched maps.
 
 Blog article can be found here: https://scottjulian.alphaworks.com.au/retro/an-adventure-in-3583-bytes/
+![SunkenTreasure-1](https://user-images.githubusercontent.com/60423/194073475-6dd6306a-e95e-452a-a9a3-6af08d4f0ca7.png)
