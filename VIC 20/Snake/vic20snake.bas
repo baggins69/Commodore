@@ -1,5 +1,6 @@
 10 rem snake
-20 rem unexpanded vic 20 30 rem by scott julian
+20 rem unexpanded vic 20 
+30 rem by scott julian
 
 100 rem variables
 105 hs=0:dimp(20,1)
@@ -41,7 +42,8 @@
 440 next i
 450 return
 
-500 rem move snake / read keyboard 505 ifj=1then550
+500 rem move snake / read keyboard 
+505 ifj=1then550
 510 getk$
 515 ifk$<>""thent$=k$
 520 ift$="o"thenp(0,y)=p(0,y)-1
