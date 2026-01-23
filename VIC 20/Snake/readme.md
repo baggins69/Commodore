@@ -1,4 +1,4 @@
-#**VIC 20 SNAKE**
+#VIC 20 SNAKE
 
 Had a few nights free recently so was inspired to create a simple game for the unexpanded Commodore VIC – 20 using BASIC v2.0. For those who have programmed the VIC 20 in BASIC realise that you only have 3.5KB of memory in this configuration.
 
