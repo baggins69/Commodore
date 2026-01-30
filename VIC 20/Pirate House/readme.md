@@ -1,4 +1,4 @@
-VIC-20 Text Adventures
+# VIC-20 Text Adventures
 
 Text adventure games for the Commodore VIC-20 (unexpanded 3.5K)
 Towards the end of 1983, I wrote several text adventure games for the Commodore VIC-20. Inspired by the classic Commodore released cartridge-based text adventures by Scott Adams, especially AdventureLand and Pirate Cove, I started programming my own series.
@@ -8,12 +8,12 @@ After a few months of learning to code and trying everything I could to fit a ga
 
 The Original Six Adventures (1983-1984)
 
-Adventure #1 – Pirate House ✓ Available
-Adventure #2 – Sunken Treasure ✓ Available
-Adventure #3 – Escape from Alcatraz ✓ Available
-Adventure #4 – Search for the Golden Eagle ⚙️ In Development
-Adventure #5 – Rebel Fighter ⚙️ In Development
-Adventure #6 – House of Terror ⚙️ In Development
+**Adventure #1 – Pirate House** ✓ Available
+**Adventure #2 – Sunken Treasure** ✓ Available
+**Adventure #3 – Escape from Alcatraz** ✓ Available
+**Adventure #4 – Search for the Golden Eagle** ⚙️ In Development
+**Adventure #5 – Rebel Fighter** ⚙️ In Development
+**Adventure #6 – House of Terror** ⚙️ In Development
 
 I released the first two titles in limited numbers via mail order but never kept fully working copies. As time went on, the only things that remained were my handwritten notes, code scribbles, and sketched maps.
 The Resurrection Project (2020-2025)
