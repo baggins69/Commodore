@@ -26,3 +26,5 @@ The Resurrection Project (2020-2025)
 Four decades later, I embarked on a mission to reconstruct these lost games from their original documentation. Between 2020 and 2024, I successfully recreated Pirate House and Sunken Treasure from handwritten notes, and completed Escape from Alcatraz—a game inspired by watching the Clint Eastwood movie one evening in 1983 but never finished at the time.
 
 Work has now commenced on the final three adventures, bringing this 40-year journey full circle. Each game maintains the original 1983 design philosophy and fits within the unexpanded VIC-20's 3.5K memory constraint.
+
+Blog article can be found here: https://scottjulian.alphaworks.com.au/retro/an-adventure-in-3583-bytes/ 
