@@ -1,4 +1,4 @@
-#VIC-20 Text Adventures
+VIC-20 Text Adventures
 
 Text adventure games for the Commodore VIC-20 (unexpanded 3.5K)
 Towards the end of 1983, I wrote several text adventure games for the Commodore VIC-20. Inspired by the classic Commodore released cartridge-based text adventures by Scott Adams, especially AdventureLand and Pirate Cove, I started programming my own series.
