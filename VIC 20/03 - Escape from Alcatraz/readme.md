@@ -16,7 +16,7 @@ The Original Six Adventures (1983-1984)
 
 **Adventure #3 – Escape from Alcatraz** ✓ Available
 
-**Adventure #4 – Search for the Golden Eagle** ⚙️ In Development
+**Adventure #4 – Search for the Golden Eagle** ✓ Available
 
 **Adventure #5 – Rebel Fighter** ⚙️ In Development
 
